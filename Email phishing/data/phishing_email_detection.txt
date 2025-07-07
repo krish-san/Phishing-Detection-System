@@ -1,0 +1,5 @@
+We used a cleaned version of this dataset from Kaggle, We'll provide you the link of the dataset we used below. 
+
+https://www.kaggle.com/datasets/subhajournal/phishingemails
+
+The data contains two features namely Email Text and Email Type. The Email Text specifies the email body and the Email Type specifies the type of email whether it is Phishing or Safe
